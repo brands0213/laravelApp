@@ -7,6 +7,11 @@
     <title>Raeson Style</title>
 </head>
 <body>
+    <h1>Raeson Style</h1>
+<div>
+    <div>
 <img src="https://imgix.ranker.com/user_node_img/50081/1001612045/original/reality-photo-u2?fit=crop&fm=pjpg&q=60&w=650&dpr=2" alt="Girl in a jacket" width="500" height="600">
+    </div>
+</div>
 </body>
 </html>
